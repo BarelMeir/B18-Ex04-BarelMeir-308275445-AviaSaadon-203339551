@@ -1,0 +1,24 @@
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csprojResolveAssemblyReference.cache
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csprojResolveAssemblyReference.cache
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CoreCompileInputs.cache
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe.config
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.pdb
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.dll.config
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CopyComplete
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.exe
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.pdb
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe.config
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.exe
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.pdb
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.pdb
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.pdb

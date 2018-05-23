@@ -1,0 +1,13 @@
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus. Interfaces\obj\Debug\Ex04.Menus.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus. Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus. Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus. Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus. Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus. Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus. Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus. Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus. Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus. Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus. Interfaces\obj\Debug\Ex04.Menus.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus. Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus. Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb

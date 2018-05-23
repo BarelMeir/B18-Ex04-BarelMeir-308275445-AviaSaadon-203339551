@@ -1,0 +1,13 @@
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csprojResolveAssemblyReference.cache
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csprojResolveAssemblyReference.cache
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csproj.CoreCompileInputs.cache
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll.config
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.dll
+C:\Users\aviasaadon\Downloads\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll.config
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.dll
+C:\Users\Barel\Documents\Visual Studio 2015\Projects\B18 Ex04 Barel 308275445 Avia 203339551\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.pdb
